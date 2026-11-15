@@ -1,0 +1,482 @@
+# Para o Mac
+
+Gerado em 15/11/2026 00:46 no PC Windows. Tudo abaixo esta em **D:\05. Para o Mac** (copias; os originais foram pro backup ou ficaram no PC).
+Plugue o SSD ou copie pela rede e pegue o que quiser.
+
+## Clientes (3,1 GB, 1800 arquivos)
+
+- **Andi/** - 0,1 GB, 110 arquivos
+  - 0907_/ - 1 arquivos
+  - Arrow/ - 41 arquivos
+  - CopyPasta/ - 59 arquivos
+  - Título/ - 4 arquivos
+  - Ali baba_card_instagram.png
+  - Thumb Separ 101-200 (1).jpg
+  - Thumb Separ 101-200 (2).jpg
+  - Thumb Separ 101-200.jpg
+  - Título.jpg
+- **Emy Oliveira/** - 0,1 GB, 162 arquivos
+  - 0607_/ - 3 arquivos
+  - 2306_/ - 5 arquivos
+  - 2806_/ - 11 arquivos
+  - 3 Cortes_julho semana 02 Masks/ - 1 arquivos
+  - Ads e conteudo agosto_01 Masks/ - 2 arquivos
+  - agosto/ - 5 arquivos
+  - Arquivos de mídia/ - 5 arquivos
+  - Arrow/ - 56 arquivos
+  - Conteudo leticia vaz/ - 8 arquivos
+  - CopyPasta/ - 33 arquivos
+  - EMY_26-06_Video 01 Masks/ - 15 arquivos
+  - Motion Graphics Template Media/ - 1 arquivos
+  - NFs/ - 1 arquivos
+  - Reels/ - 8 arquivos
+  - Thumbs/ - 4 arquivos
+  - vc nao precisa de academia/ - 1 arquivos
+  - Sem equipamentos ou Apenas o peso do corpo.JPG
+  - Thumb03.png
+  - Thumb04.png
+- **Felipe Rodrigues/** - 0,3 GB, 304 arquivos
+  - 0707_/ - 1 arquivos
+  - 1002_/ - 2 arquivos
+  - 1207_/ - 1 arquivos
+  - 1405_/ - 12 arquivos
+  - 2507_/ - 1 arquivos
+  - 26-07_Reels Ryan Masks/ - 2 arquivos
+  - 2805_/ - 1 arquivos
+  - Arrow/ - 65 arquivos
+  - carrosseis/ - 7 arquivos
+  - CopyPasta/ - 132 arquivos
+  - Motion Graphics Template Media/ - 4 arquivos
+  - Motion_Titulos Masks/ - 10 arquivos
+  - Vídeos/ - 1 arquivos
+  - videos julho/ - 6 arquivos
+  - VSL_1 Min Masks/ - 1 arquivos
+  - 3dicons-calender-dynamic-color.png
+  - 3dicons-camera-dynamic-color.png
+  - 3dicons-dollar-dynamic-color.png
+  - 3dicons-pause-dynamic-color.png
+  - 3dicons-play-dynamic-color.png
+  - 3dicons-target-dynamic-color.png
+  - 3dicons-youtube-front-color.png
+  - 69e293ca177adfb8ef4df0a8_pagamento-spe.webp
+  - Alterar cor para vermelho #FF0000.jpg
+  - Degradê transparente na parte inferior (1).png
+  - Degradê transparente na parte inferior (2).png
+  - Degradê transparente na parte inferior (2).webp
+  - Degradê transparente na parte inferior.jpg
+  - Degradê transparente na parte inferior.png
+  - Design sem nome (1).jpg
+  - Design sem nome (1).png
+  - Design sem nome (2).png
+  - e.png
+  - Excalifont-Regular.woff2
+  - f174167316548daff4cc9842521fb766.gif
+  - Felipe_site.webp
+  - IMG_3731.JPG.jpeg
+  - IMG_3732.JPG.jpeg
+  - IMG_3733.JPG.jpeg
+  - IMG_3736.JPG.jpeg
+  - landing_page_manual_youtube_v5 (1).html
+  - landing_page_manual_youtube_v5 (2).html
+  - landing_page_manual_youtube_v5.html
+  - Logo curso.jpg.jpeg
+  - LOGO SEPAR.pdf
+  - manual dop yt.jpg
+  - O Manual do Youtube (1).png
+  - O Manual do Youtube (2).png
+  - O Manual do Youtube (3).png
+  - O Manual do Youtube 2.png
+  - O Manual do Youtube.jpg
+  - O Manual do Youtube.png
+  - Oferta HT.pdf
+  - Prancheta 1 copiar 2.png
+  - Prancheta 1 copiar.png
+  - Prancheta 1.jpg
+  - QR CODE_MEMBROS.pdf
+  - Seu tempo tem valor (1920 x 365 px).png
+  - Seu tempo tem valor (1920 x 600 px) (1).jpg
+  - Seu tempo tem valor (1920 x 600 px).jpg
+  - Seu tempo tem valor.png
+  - Thumb Separ 101-200.jpg
+  - Título (1).jpg
+  - Título (2).jpg
+  - Título (3).jpg
+  - Título (4).jpg
+  - Título.jpg
+  - VOCÊ ESTÁ A 1 PASSO DE TRANSFORMAR SEU CANAL (1).jpg
+  - VOCÊ ESTÁ A 1 PASSO DE TRANSFORMAR SEU CANAL (2).jpg
+  - VOCÊ ESTÁ A 1 PASSO DE TRANSFORMAR SEU CANAL (800 x 500 px) (1).jpg
+  - VOCÊ ESTÁ A 1 PASSO DE TRANSFORMAR SEU CANAL (800 x 500 px) (2).jpg
+  - VOCÊ ESTÁ A 1 PASSO DE TRANSFORMAR SEU CANAL (800 x 500 px).jpg
+  - VOCÊ ESTÁ A 1 PASSO DE TRANSFORMAR SEU CANAL.jpg
+- **Hypper/** - 0,1 GB, 1 arquivos
+  - template_jobs (1).psd
+- **Marca Pagina/** - 0,7 GB, 597 arquivos
+  - 2026/ - 17 arquivos
+  - 26-06_BRUNO_Fa witch hat_cyberpunk_big 3_momento one piece Masks/ - 3 arquivos
+  - 26-08_Homem aranha_chainsmoker_luz do futuro_black torch Masks/ - 1 arquivos
+  - 3006_/ - 1 arquivos
+  - 99. Projetos/ - 454 arquivos
+  - Arrow/ - 31 arquivos
+  - Copiado_Bruno Video Teste/ - 4 arquivos
+  - CopyPasta/ - 26 arquivos
+  - Motion Graphics Template Media/ - 2 arquivos
+  - Publi mercado livre/ - 15 arquivos
+  - sdsda/ - 5 arquivos
+  - Título/ - 4 arquivos
+  - Watchfolio-20260708T125658Z-3-001/ - 6 arquivos
+  - 1.jpg
+  - 10.jpg
+  - 11.jpg
+  - 12.jpg
+  - 13.jpg
+  - 14.jpg
+  - 15.jpg
+  - 16.jpg
+  - 17.jpg
+  - 18.jpg
+  - 19.jpg
+  - 2.jpg
+  - 26-06_BRUNO_Fa witch hat_cyberpunk_big 3_momento one piece66ff69de-00ac-4a9b-a1aa-e2222458ba7f
+  - 3.jpg
+  - 4.jpg
+  - 5.jpg
+  - 6.jpg
+  - 7.jpg
+  - 8.jpg
+  - 9.jpg
+  - clipart4725621.png
+  - Fullscreen 1 copiar.png
+  - homem aranha brand new day_capa.jpg
+  - icon.png
+  - iNTRO_DELEGACIA63a95be5-ed87-4967-b23d-52107f0e8c2f
+  - Marca Página - Mídia Kit - 2025.pdf
+  - Sasuke-Uchiha-Naruto-anime-manga-transparent-PNG-image.png
+  - Título.jpg
+- **Vivi/** - 1,8 GB, 626 arquivos
+  - 01. Histórias de Divórcio/ - 493 arquivos
+  - 03. Mayara/ - 2 arquivos
+  - 2107_/ - 2 arquivos
+  - 26-08_Natali Borges Masks/ - 5 arquivos
+  - Alteracoes setembro/ - 1 arquivos
+  - Arrow/ - 40 arquivos
+  - CopyPasta/ - 29 arquivos
+  - projeto-20260720T150020Z-1-001/ - 10 arquivos
+  - 364464882115a967f63301863da675a5.jpg
+  - CAMILA SANTOS.mpeg
+  - Contrato - Historias de divorcio.pdf
+  - Débora oliveira silva
+  - DEBORA OLIVEIRA.jpeg
+  - deNoise - Template - Separ.prin
+  - deNoise - Template - Separ.prproj
+  - deNoise - Template - Super.prin
+  - deNoise - Template - Super.prproj
+  - high-1780499832.jpg
+  - humb Separ 101-200 (1).jpg
+  - humb Separ 101-200 (2).jpg
+  - humb Separ 101-200 (3).jpg
+  - humb Separ 101-200 (4).jpg
+  - humb Separ 101-200 (5).jpg
+  - humb Separ 101-200.jpg
+  - LOGO SEPAR_pages-to-jpg-0001.jpg
+  - marizete audio
+  - QR CODE_MEMBROS_pages-to-jpg-0001.jpg
+  - Separ - Template.prproj
+  - Separacoes Template Project (Superacoes).prproj
+  - Separações Template Project.prproj
+  - Superações Template Project.prproj
+  - Thumb - Vivi.png
+  - Thumb Separ 101-200 (1).jpg
+  - Thumb Separ 101-200 (10).jpg
+  - Thumb Separ 101-200 (11).jpg
+  - Thumb Separ 101-200 (12).jpg
+  - Thumb Separ 101-200 (13).jpg
+  - Thumb Separ 101-200 (14).jpg
+  - Thumb Separ 101-200 (15).jpg
+  - Thumb Separ 101-200 (16).jpg
+  - Thumb Separ 101-200 (17).jpg
+  - Thumb Separ 101-200 (2).jpg
+  - Thumb Separ 101-200 (3).jpg
+  - Thumb Separ 101-200 (4).jpg
+  - Thumb Separ 101-200 (5).jpg
+  - Thumb Separ 101-200 (6).jpg
+  - Thumb Separ 101-200 (7).jpg
+  - Thumb Separ 101-200 (8).jpg
+  - Thumb Separ 101-200 (9).jpg
+  - Thumb Separ 101-200 2.jpg
+  - Thumb Separ 101-200.jpg
+  - THUMBS-33.png
+
+## deNoise Documentos (0,1 GB, 49 arquivos)
+
+- =utf-8QNOVOTermo_de_Transfer=C3=AAncia_de_Direitos= =utf-8Q_de_uso_e_Obriga=C3=A7=C3=B5es_Contratuais_5.pdf
+- abr_01.pdf
+- abr_02.pdf
+- Binder Playbook® - Email Marketing (1).pdf
+- broadcasts-2026-08-03-11-11-27.csv
+- Código Viral - Resumo Ilustrado.pdf
+- Contrato - Augusto.docx
+- Contrato - Augusto.pdf
+- Contrato - deNoise e Calibase.pdf
+- Contrato - Juliano + Hypper.pdf
+- contrato social denoise.pdf
+- Controle_Financeiro.xlsx
+- CURRICULO.pdf
+- DAS-PGMEI-43994890000107-AC2025.pdf
+- Fatura6784361 2.pdf
+- Fatura6784361.pdf
+- fev_01.pdf
+- fev_02.pdf
+- fev_03.pdf
+- fev_04.pdf
+- informe_de_rendimentos_profile_70283461_year_2025.pdf
+- informe-de-rendimentos-2025 (1).pdf
+- informe-de-rendimentos-2025.pdf
+- informe-de-rendimentos-2025-ANNUAL (1).pdf
+- informe-de-rendimentos-2025-ANNUAL.pdf
+- informe-de-rendimentos-2025-Q4.pdf
+- jan_01.pdf
+- jan_02.pdf
+- jan_03.pdf
+- mar_01.pdf
+- NFE_Juliano_Youshopp_despedidaTLHaru.pdf
+- NFe_juliano-Hypper_podcasts jan26.pdf
+- nfs_26-01_denoise_euvivi.pdf
+- NFSe-denoise_hypper brands_07-04-26.pdf
+- NFSe-denoise_hypper brands_20-02-26.pdf
+- Onboarding Clientes TF.pdf
+- Proposta Gabriel Toretto.pdf
+- Proposta Gian.pdf
+- Proposta João Mendonça.pdf
+- Reconter - 12.25.pdf
+- sales_02hj3h_1786467044641.xlsx
+- sales_0ayl39_1786206539156.xlsx
+- sales_kini2d_1784654246481.csv
+- sales_lr6pwn_1786104668369.xlsx
+- sales_nd0cao_1784654360998.xlsx
+- sales_oyur08_1786969674158.xlsx
+- sales_sxyaj8_1785936668811.xlsx
+- students_8f8y2_1784817471254.csv
+- total_subscribers-2026-07-28-18-05-59.csv
+
+## Recursos de Edicao (3,6 GB, 536 arquivos)
+
+- **1_ShareMexAgency/** - 0,1 GB, 29 arquivos
+- **11 Luts Cinematic/** - 0,0 GB, 11 arquivos
+- **28FREE_BURNS/** - 0,0 GB, 57 arquivos
+- **Arrow_1.5.2/** - 0,0 GB, 3 arquivos
+- **BF - Title Animation Pack Compressed/** - 0,0 GB, 100 arquivos
+- **Compass_1.2.1/** - 0,0 GB, 3 arquivos
+- **Conversion LUTs - Apple LOG to REC709/** - 0,0 GB, 5 arquivos
+- **FilmBurn Overlays V2/** - 0,0 GB, 14 arquivos
+- **free-customized-LUTs/** - 0,0 GB, 13 arquivos
+- **Jarles_Presets_4.0/** - 0,0 GB, 2 arquivos
+- **Look_profile_for_resolve_S-Gamut_Slog2/** - 0,0 GB, 4 arquivos
+- **LUTs - Film Emulation/** - 0,0 GB, 13 arquivos
+- **LUTs - Log to Rec709/** - 0,0 GB, 18 arquivos
+- **LUTs - Movie Looks/** - 0,0 GB, 41 arquivos
+- **MOGRTs/** - 0,0 GB, 2 arquivos
+- **Paper_Torn_Transitions_Pack/** - 0,2 GB, 10 arquivos
+- **PB-free-textured-motion-graphics-for-premiere/** - 0,0 GB, 36 arquivos
+- **Plugin Alternate Zoom/** - 0,0 GB, 3 arquivos
+- **Plugins presets e fontes/** - 0,4 GB, 44 arquivos
+- **Portal_1.5.3/** - 0,0 GB, 3 arquivos
+- **Professional Organic Light Leak Pack - AvnishParker/** - 1,0 GB, 11 arquivos
+- **Scribble FX SAMPLE/** - 0,3 GB, 7 arquivos
+- **SonyLookProfiles_SLog3_SGamut3Cine/** - 0,0 GB, 4 arquivos
+- **Tonal Sounds/** - 0,5 GB, 36 arquivos
+- 09_Canon LUTs_Filmic Style.cube (0,1 MB)
+- 09_Canon LUTs_Filmic Style.look (0,0 MB)
+- 28FREE_BURNS.rar (38,6 MB)
+- 36 Free Tonal Sounds (Mar 2026)-20260313T120216Z-3-001.zip (454,4 MB)
+- 70+CGC+LUTs.zip (22,7 MB)
+- Artlist Foley - Vintage Cameras - Kodak Duaflex Shutter Slow.aac (0,0 MB)
+- BF - Title Animation Pack Compressed.zip (1,7 MB)
+- CGC_Premiere_Pro_Transitions_10_Pack.zip (0,3 MB)
+- Conversion_LUTs_-_Apple_LOG_to_REC709.zip (4,4 MB)
+- Enter button mechanical keyboard  sound effect - Sound Treasures (youtube).mp3 (0,2 MB)
+- Film Frames Kit.prfpset (0,8 MB)
+- Film_Frames_Kit_source_3023231.zip (13,1 MB)
+- FlyEnri Sony HLG3 BT2020 Artsy LUT Faded Warm.cube (6,8 MB)
+- FlyEnri Sony HLG3 BT2020 Conversion and Artsy LUT Faded Warm.cube (6,6 MB)
+- FlyEnri Sony HLG3 BT2020 Conversion LUT.cube (6,9 MB)
+- Free Sound Effects for YouTube Videos🔥  No Copyright & High Quality - Apan Vid (youtube).mp3 (4,8 MB)
+- free-customized-LUTs.zip (6,0 MB)
+- JMV Reddit.prlabelpreset (0,0 MB)
+- La Burbuja  - Premium ASMR - Pencil Writing.aac (3,3 MB)
+- LOG to Rec.709.cube (0,7 MB)
+- Mac Keyboard Typing Sound Effect - Free To Use — royalty free sound effects (youtube).mp3 (1,2 MB)
+- mixkit-epical-drums-01-676.mp3 (3,2 MB)
+- mixkit-epical-drums-02-677.mp3 (3,8 MB)
+- mixkit-epical-drums-05-680.mp3 (3,1 MB)
+- old film grain overlay  dust, hairs and scratches - overlaysforedits (1080p, h264, youtube).mp4 (5,8 MB)
+- Paper_Torn_Transitions_Pack.zip (220,9 MB)
+- Piano Sound Effect - Great Sounds (youtube).mp3 (0,2 MB)
+- RW-DEHANCER-01.cube (0,9 MB)
+- RW-DEHANCER-02.cube (0,9 MB)
+- RW-DEHANCER-03.cube (0,9 MB)
+- SFX_Apple Ring.wav (0,3 MB)
+- SFX_Cash.wav (0,3 MB)
+- SFX_Impact 01.wav (0,5 MB)
+- SFX_Impact 02.wav (1,5 MB)
+- SFX_Impact 03.wav (0,7 MB)
+- SFX_Impact 04.wav (0,7 MB)
+- SFX_Impact 05.wav (0,3 MB)
+- SFX_Power On Digital 01.wav (0,3 MB)
+- SFX_Power On Digital 02.wav (0,3 MB)
+- SFX_Power On Digital 03.wav (0,5 MB)
+- SFX_Power On Digital 04.wav (0,4 MB)
+- SFX_Riser 01.wav (0,2 MB)
+- SFX_Riser Digital.wav (0,2 MB)
+- SFX_Riser Long 01.wav (0,5 MB)
+- SFX_Riser Long 02.wav (0,5 MB)
+- SFX_Riser Long 03.wav (1,0 MB)
+- SFX_Riser Long 04.wav (1,1 MB)
+- SFX_Riser Long 05.wav (0,9 MB)
+- SFX_Riser Long 06.wav (1,1 MB)
+- SFX_Riser Super 01.wav (0,4 MB)
+- SFX_Riser Super 02.wav (0,4 MB)
+- SFX_Riser Sword.wav (0,4 MB)
+- SFX_Static.wav (0,3 MB)
+- SFX_Typewriter 01.wav (0,7 MB)
+- SFX_Typewriter Retur.wav (0,2 MB)
+- SFX_Woosh 01.wav (0,1 MB)
+- SFX_Woosh 02.wav (0,2 MB)
+- SoundBits - Empty Rooms - School Ventilation Warehouse Constant Hum.aac (5,5 MB)
+- Top 5 funny sound effects #funnysounds - Mondal Screen (youtube).mp3 (0,3 MB)
+- Transition Sound Effects - No Copyright - FactoPie (youtube).mp3 (1,2 MB)
+- TYPEWRITER SOUND EFFECT - Typing On Typewriter Sound Effect And Video - SOUND FX  VIDEO FX - Blissful Peace (youtube).mp3 (0,2 MB)
+- Typewriter Text Effect (ParEdits).mogrt (0,0 MB)
+- Typewriter Text.mogrt (0,0 MB)
+- Typing - Sound Effect (HD) - Sound Effect (youtube).mp3 (0,7 MB)
+- Windows XP Error Sound - Legend (youtube).mp3 (0,0 MB)
+- Wow sound effect - Meme Sound FX (youtube).mp3 (0,2 MB)
+- X files theme song - Embraced Sounds (youtube).mp3 (0,3 MB)
+
+## Trilhas e SFX (1,0 GB, 88 arquivos)
+
+- 4 SEASONS - AUTUMN - VIVALDI (NO COPYRIGHT) - MusiCalvo (youtube).mp3 (26,8 MB)
+- 5 Sided Cube - 56.wav (98,5 MB)
+- Akame Ga Kill! - Le chant de Roma [アカメが斬る！- OST] - Pandora Heaven (youtube).mp3 (10,9 MB)
+- Alexander Levin - Higher Than Myself.wav (114,8 MB)
+- Alon Ohana - Dancing Knights.mp3 (6,9 MB)
+- Angelika Conrad - Sunbeam.mp3 (6,2 MB)
+- Antonio Vivaldi - Outono [wuJ2EC0wnJg].mp3 (4,4 MB)
+- Apple Keyboard Sound Effect (HD) - SOUNDLAB (youtube).mp3 (0,3 MB)
+- Artlist Musical Logos - Deep Feelings.wav (2,4 MB)
+- Artlist Original - Epic Orchestral - Dramatic Cello Melody.aac (0,1 MB)
+- Artlist Original - Epic Orchestral - Elegant String Logo.aac (0,2 MB)
+- Artlist Original - Epic Orchestral - Royal String Logo.aac (0,5 MB)
+- Artlist Original - Epic Orchestral - Sad String Ensemble.wav (15,9 MB)
+- Aves - Bumpin.wav (41,7 MB)
+- Aves - Sundays.mp3 (6,4 MB)
+- Blue Lock OST - Main Theme (Original Soundtrack) - 《 EMP OST 》 (youtube).mp3 (5,4 MB)
+- Bump - Dyalla.mp3 (5,6 MB)
+- Captain Qubz - Get Down - Instrumental version.mp3 (5,7 MB)
+- Car Passing By - Sound Effect.mp3 (0,2 MB)
+- Car Passing By - Sound Effect-7e647c97-69eb-418d-9e2b-7e39e10bd479.wav (2,4 MB)
+- Castlevania Bloody Tears  EPIC VERSION - Samuel Kim Music (youtube).mp3 (10,5 MB)
+- Children Yay Sound Effect (HD) - Joe The Sound Effect Maker (youtube).mp3 (0,3 MB)
+- Danny Shields - Ghost Groove.mp3 (4,7 MB)
+- Danny Shields - This Way - Instrumental version.mp3 (3,9 MB)
+- dannyminus - Voidwalker - Short version b.mp3 (4,7 MB)
+- Derek Minor - To the Limit - Instrumental version.mp3 (4,9 MB)
+- Efeitos sonoros natureza - Felipe Sette (youtube).mp3 (3,7 MB)
+- Elior Antwi - The Last Samurai.mp3 (6,6 MB)
+- Eternia (from Masters of the Universe) - Daniel Pemberton (youtube).mp3 (7,6 MB)
+- FableForte - Whodunit.mp3 (5,1 MB)
+- Fahhhh - Sound effect (HD) - HighQualitySFX (youtube).mp3 (0,2 MB)
+- First Dream - Brian Bolger.mp3 (5,4 MB)
+- FLAMEBOY - DROP - Instrumental version.mp3 (5,2 MB)
+- Fly Sound - Media Basics - Camera Shoot Multiple.aac (0,1 MB)
+- Frank Bentley - Get Dangerous - Instrumental version.mp3 (5,7 MB)
+- Frank Bentley - Motion - Instrumental version.mp3 (6,1 MB)
+- Frank Bentley - Motion.mp3 (6,1 MB)
+- Gal Lev - Empty Rooms.mp3 (3,6 MB)
+- Grelo - SÓ FÉ (Clipe Oficial) - Grelo (youtube).mp3 (8,3 MB)
+- Heron Vale - Astral Genesis - Creative Cut - Vocal Based.mp3 (2,4 MB)
+- Higher Octane - Vans in Japan.mp3 (4,6 MB)
+- Ian Post - Into the Storm - No Leads.mp3 (4,9 MB)
+- ILLUMINATI CONFIRMED (The X-Files Theme) - Sound Effect (HD) - Gaming Sound FX (youtube).mp3 (0,6 MB)
+- Joe Hisaishi - Merry-Go-Round of Life (from Howl’s Moving Castle) - JoeHisaishiVEVO (youtube).mp3 (11,9 MB)
+- Kyle Preston - Reborn as Art.mp3 (10,2 MB)
+- Low of Solipsism - Yoshihisa Hirano (youtube).mp3 (5,5 MB)
+- lumine wave - Violin Resonance.mp3 (4,8 MB)
+- Magiksolo - Autumn.mp3 (3,3 MB)
+- Main Title - Danny Elfman (youtube).mp3 (8,0 MB)
+- Marcelo Nami - Enlevo Rapture.wav (57,3 MB)
+- Mark Fabian - St Michael.mp3 (5,5 MB)
+- Metric - Black Sheep (Brie Larson Vocal Version) ft. Brie Larson - MetricVEVO (youtube).mp3 (7,8 MB)
+- Monument Music - Chapter Two - Creative Cut - Orchestra.mp3 (3,0 MB)
+- Naruto - Afternoon of Konoha - ssj5Bardock (youtube).mp3 (3,9 MB)
+- Ni Sound - Filmmaking Props - Camera Shutter.wav (0,6 MB)
+- Onyx Music - Time Expansion.mp3 (19,1 MB)
+- Out of Flux - cinnamonrolls.mp3 (6,2 MB)
+- Peter Spacey - Kawaii Kitty Dance.mp3 (6,4 MB)
+- Rachel Gonzalez - Butterflies - No Lead Vocals.wav (37,4 MB)
+- Randy Sharp - Milo My.mp3 (4,9 MB)
+- Record Disc Scratch - Sound Effect - Free Sounds Collection (youtube).mp3 (0,4 MB)
+- RG404 - Only Love.mp3 (3,6 MB)
+- Riser - Sound Effect (Free) - Henal Shah (youtube).mp3 (0,2 MB)
+- Roie Shpigler - Daishō Two Swords.mp3 (8,6 MB)
+- Sam Lux - Cut Loose.mp3 (6,2 MB)
+- Semo - Caipirinha.wav (50,1 MB)
+- Serenity - Aakash Gandhi.mp3 (4,7 MB)
+- Socos Pack - Efeito Sonoro (1-1).mp3 (0,0 MB)
+- Soft Slide 02 - Short 02.wav (0,1 MB)
+- Solis - Desert Stray.mp3 (10,2 MB)
+- Soundholder - Cameras - Nikon FM2N Shutter Speed Dial Clicks.aac (0,1 MB)
+- Soundkrampf - ANLG - Retro TV Hum Shutdown.aac (0,2 MB)
+- Steven Beddall - Tomorrows Promise.mp3 (7,1 MB)
+- Swoosh 01 - 01.wav (0,1 MB)
+- Swoosh 01 - 02.wav (0,1 MB)
+- Swoosh 04 - 02.wav (0,1 MB)
+- The Avengers - Theme Song - Gal Halperin (youtube).mp3 (4,6 MB)
+- The Boys Homelander Theme (Fan-made) - TheAntMixer (youtube).mp3 (3,5 MB)
+- The Girl from Saint-Anne-des-Plaines - The Mini Vandals.mp3 (3,7 MB)
+- Top 15 Riser Sound Effect For Editing - Warrior SFX (youtube).mp3 (2,3 MB)
+- Vic Sage - 4x - No Lead Vocals.mp3 (6,1 MB)
+- Yarin Primak - 5 to 9 - No Lead Vocals.wav (34,8 MB)
+- Yarin Primak - Only You - Instrumental version.wav (38,7 MB)
+- YUNG TORO - Bill It - Instrumental version (1).mp3 (6,5 MB)
+- YUNG TORO - Bill It - Instrumental version.mp3 (6,5 MB)
+- Ziv Moran - Hey - Instrumental version.wav (47,6 MB)
+- Ziv Moran - I Wish.wav (31,0 MB)
+- Ziv Moran - Lightkeeper.wav (41,6 MB)
+
+## Projetos recentes (desde 08/2026) que foram pro backup
+
+Nao copiei pro Mac (os links de midia quebram e os brutos ficaram no PC). Se precisar de algum, ele esta neste caminho no HD:
+
+- 09/09 - Seagate: `01. Clientes\Andi\Projetos sem conteudo\leva agosto.prproj`
+- 05/09 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-06_Mayara_Video 01.prproj`
+- 29/08 - Seagate: `01. Clientes\Andi\Projetos sem conteudo\3 videos.prproj`
+- 28/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-08_Shanaia_SUPER.prproj`
+- 18/08 - Seagate: `01. Clientes\Emy Oliveira\Projetos sem conteudo\Reels_julho_01 e 02.prproj`
+- 18/08 - Seagate: `01. Clientes\Emy Oliveira\Projetos sem conteudo\Ads e conteudo agosto_01.prproj`
+- 17/08 - HD Cinza: `01. Clientes\Felipe Rodrigues\Conteudos\2026\2026-07_Shorts\Projeto\shorts agosto.prproj`
+- 15/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-08_Paulo Neto_Super.prproj`
+- 15/08 - Seagate: `01. Clientes\Andi\Projetos sem conteudo\26-06_Andi_02 principe sapo.prproj`
+- 15/08 - Seagate: `01. Clientes\Andi\Projetos sem conteudo\Andi_01_Principe e princesa.prproj`
+- 15/08 - Seagate: `01. Clientes\Marca Pagina\Projetos sem conteudo\99. Projetos\26-07_AKAME_scott_assassins creed_castelvania_final manga mais incomoda.prproj`
+- 14/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-07_Mayara videos 7 a 10.prproj`
+- 14/08 - Seagate: `01. Clientes\Marca Pagina\Projetos sem conteudo\26-08_Homem aranha_chainsmoker_luz do futuro_black torch.prproj`
+- 14/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-08_Nathalia Brito.prproj`
+- 13/08 - Seagate: `01. Clientes\Emy Oliveira\Projetos sem conteudo\3 Cortes_julho semana 02.prproj`
+- 13/08 - HD Cinza: `01. Clientes\Felipe Rodrigues\Projetos sem conteudo\Felipe_agosto 01 educacional.prproj`
+- 12/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-08_Evilin Silva.prproj`
+- 11/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-09_Simone.prproj`
+- 11/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\Alteracoes setembro\26-09_Simone.prproj`
+- 11/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-09_Kellen Cristina.prproj`
+- 11/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\Alteracoes setembro\26-09_Kellen Cristina.prproj`
+- 11/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-08_Yone_SUPER.prproj`
+- 10/08 - Seagate: `01. Clientes\Emy Oliveira\Projetos sem conteudo\Conteudo leticia vaz\leticia vaz.prproj`
+- 09/08 - Seagate: `02. Freelas\EWFA\Projetos sem conteudo\26-08_Thiago EWFA.prproj`
+- 08/08 - HD Cinza: `01. Clientes\Felipe Rodrigues\Projetos sem conteudo\VLOG agosto 01.prproj`
+- 06/08 - Seagate: `01. Clientes\Marca Pagina\Projetos sem conteudo\99. Projetos\ASSETS_BRUNO.prproj`
+- 05/08 - Seagate: `01. Clientes\Andi\Projetos sem conteudo\ADS fechamento.prproj`
+- 05/08 - HD Cinza: `01. Clientes\Felipe Rodrigues\Projetos sem conteudo\26-07_Reels Ryan.prproj`
+- 03/08 - HD Cinza: `01. Clientes\Felipe Rodrigues\Projetos sem conteudo\curso_cases.prproj`
+- 03/08 - Seagate: `01. Clientes\Marca Pagina\Projetos sem conteudo\Publi 8 do 8 mercadoi livre.prproj`
+- 02/08 - Seagate: `01. Clientes\Andi\Conteudos\2026\2026-08_Finais novos\Projeto\finais novos.prproj`
+- 01/08 - HD Cinza: `01. Clientes\Vivi\Projetos sem conteudo\26-08_Natali Borges.prproj`
