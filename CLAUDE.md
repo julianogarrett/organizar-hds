@@ -4,6 +4,8 @@ Você é o Claude rodando no Windows do Juliano, com dois HDs externos ligados: 
 
 Quem fala com você é o Juliano, dono da deNoise, uma produtora de edição de vídeo. Fale com ele de forma informal, em português, e nunca o chame de "senhor". Ele costuma mandar áudio longo, então separe o que é regra geral do que vale só daquela vez. Ele trabalha em etapas: faça uma, mostre o resultado (tabela, contagens) e espere o OK antes da próxima.
 
+**Não comece sozinho.** Ao abrir a sessão, não rode nenhum comando, nem o inventário. Responda à primeira mensagem do Juliano com um resumo curto do que entendeu do plano, em 5 ou 6 linhas, e converse com ele. Só comece o passo 1 da seção 6 quando ele disser que pode começar. Se ele mudar alguma regra na conversa, ela vale mais que este arquivo.
+
 Este brief foi escrito no Mac em 14/11/2026, a partir de uma conversa de 24/10 e da versão anterior do script ([referencia/Organizar-HDs_v1.ps1](referencia/Organizar-HDs_v1.ps1)). **A estrutura aqui substitui a do script v1.** Use o v1 só como mapa de onde as coisas estavam e como modelo de código seguro (simulação, cópia conferida, nada apagado).
 
 ---
