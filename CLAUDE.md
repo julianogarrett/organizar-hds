@@ -41,14 +41,13 @@ Este brief foi escrito no Mac em 14/11/2026, a partir de uma conversa de 24/10 e
   <Cliente>/                    mesma estrutura de 01. Clientes
 03. Recursos de Edicao/         transições, SFX, LUTs, presets (material de uso geral)
 04. Pessoal/
-05. Backups de Computador/
 90. A revisar/                  brutos, versões antigas e o que não tem dono (caminho original mantido)
 99. Recuperados/                found.000, found.001
 _Para apagar/                   cache e lixo (caminho original mantido)
 ```
 
 **Quem fica em qual HD:**
-- **Seagate:** Marca Página, Pessoal e Backups de Computador.
+- **Seagate:** Marca Página e Pessoal.
 - **HD Cinza:** os outros clientes (Vivi, Hypper, Ale Busato, Yana, Luiz, Jovem Aventura) e os Freelas.
 
 Dentro de `Conteudos/` só existe a pasta do **ano**. O **mês vai no nome da pasta do conteúdo** (`AAAA-MM_Titulo`). O Juliano escolheu assim.
@@ -109,7 +108,7 @@ Use como ponto de partida e **confirme no disco**, porque pode ter mudado.
 - Pessoal: `Tic Pic`, `Canal Ia`, `Pessoal`, `Backup` (backup de 2022) e `Edição\Brocolis Fízika.ai` → `04. Pessoal`. **Não aplique a regra de conteúdo/bruto no Pessoal**: só mova.
 - `Desktop\Edição`: já foi copiada pro Mac e conferida byte a byte em 24/10. Vai para `_Para apagar`.
 - `OL_Transition_11[1]` → `03. Recursos de Edicao`.
-- `Backup_Helen` → `05. Backups de Computador\Helen` (só mova).
+- `Backup_Helen` → `90. A revisar\Backup_Helen`, inteiro e sem classificar nada dentro. O Juliano já recuperou o que precisava desse computador (14/11), e não existe mais a pasta `Backups de Computador`.
 - `found.000` e `found.001` → `99. Recuperados`.
 - `desktop.ini` e `~$*.docx` → `_Para apagar`. `Backup 2024`, `Adobe`, `Program Files` e `WindowsApps`: remover se estiverem vazias.
 
